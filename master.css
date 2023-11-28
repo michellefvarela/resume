@@ -1,0 +1,149 @@
+body {
+    background-image: url("bluebackground.jpg");
+    background-color: #cccccc;
+}
+
+.topnavbar {
+    text-align: center;
+    padding: 1%;
+    color:#96adeb;
+    font-size: 40px;
+    font-family: sans-serif;
+    word-spacing:30px;
+}
+
+#profilepic {
+    margin-top: 90px;
+    margin-left: 250px;
+    margin-bottom: 7px;
+    border-radius: 50%;
+    border: 5px solid white;
+}
+
+h1 {
+    margin-left: 80px;
+    line-height: 15px;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    color: #96adeb;
+
+}
+
+.rcorners1 {
+    margin-top: 15px;
+    border-radius: 25px;
+    background: #96adeb;
+    padding: 20px;
+    padding-left:20px;
+    height: 20px;
+    text-align: center;
+}
+
+.rcorners1div {
+    margin-top: 30px;
+    margin-left: 50px;
+    column-count: 2;
+    vertical-align: top;
+    column-gap: 40px;
+    column-rule-style: solid;
+
+
+
+}
+
+.contact {
+    margin-top: 30px;
+    margin-left: 50px;
+    column-count: 2;
+    vertical-align: top;
+    column-gap: 40px;
+    column-rule-style: solid;
+
+
+
+}
+
+.intro {
+    margin-top: 30px;
+    margin-left: 50px;
+    vertical-align: top;
+
+
+
+}
+
+h2 {
+    margin-top: 80px;
+    line-height: 15px;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    color: #96adeb;
+
+}
+h3 {
+    margin-top: 80px;
+
+    line-height: 15px;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 35px;
+    color: #96adeb;
+
+}
+h4 {
+    text-align: center;
+    line-height: 15px;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 30px;
+    color: #96adeb;
+}    
+
+
+h5 {
+    text-align: center;
+    line-height: 15px;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 35px;
+    color: #96adeb;
+}    
+#linkedin{
+    margin-left: 80px;
+    line-height: 15px;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 20px;
+    color: #96adeb;
+}
+
+
+.flex-container {
+    display: flex;
+}
+
+.flex-child {
+    flex: 1;
+    margin-right: 20px;
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+    color: white;
+    
+}  
+
+.flex-child:first-child {
+    margin-right: 50px;
+    
+
+
+} 
+
+article:hover { 
+    font-size : 23px;
+    cursor: zoom-in;
+    
+}
+
